@@ -33,7 +33,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 ## 💻 Projeto
 
 O DevLinks é um agregador de links para usar como cartão de visitas online.<br>
-<a href="https://eltonjramc.github.io/projeto/" target="_blank">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+<a href="https://eltonjramc.github.io/projeto/" target="_blank">Projeto</a>
 
 ## 🔖 Layout
 
